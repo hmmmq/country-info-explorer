@@ -3,9 +3,11 @@
 **Objective and Functionality:**
 
 The CountryInfoExplorer project is a web application designed to fetch and display detailed information about a specific country. Users input the name of a country, and the application retrieves and presents data including the country's name, capital, population, languages, currency, flag, and more.
+
 <img src="./img/france.png">
 <img src="./img/usa.png">
 <img src="./img/map.png">
+
 **Technology Stack:**
 
 - **Frontend**: Developed using React, a popular JavaScript library for building user interfaces. Leveraged Bootstrap for styling, ensuring a responsive and modern design.
