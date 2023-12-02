@@ -1,13 +1,17 @@
 ### Project Summary: CountryInfoExplorer
 
 <img src="./img/country-info-explorer.png">
+![country-info-explorer](https://i.imgur.com/oPGRd3k.png)
 
 **Objective and Functionality:**
 The CountryInfoExplorer project is a web application designed to fetch and display detailed information about a specific country. Users input the name of a country, and the application retrieves and presents data including the country's name, capital, population, languages, currency, flag, and more.
 
 <img src="./img/france.png">
+![search france](https://i.imgur.com/Ot8uxTk.png)
 <img src="./img/usa.png">
+![search usa](https://i.imgur.com/25PwXbv.png)
 <img src="./img/map.png">
+![click usa's map link](https://i.imgur.com/UlZHnby.png)
 
 **Technology Stack:**
 
