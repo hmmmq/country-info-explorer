@@ -1,6 +1,5 @@
-import logo from "./logo.svg";
 import "bootstrap/dist/css/bootstrap.min.css";
-import React, { useState } from "react";
+import React from "react";
 import CountryInfo from "./components/CountryInfo";
 function App() {
   return (
